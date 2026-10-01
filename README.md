@@ -45,7 +45,3 @@ npm install
 node server.js
 \`\`\`
 Il server parte su `http://localhost:3001`
-
-## 📌 Prossimi passi
-
-Collegare questi dati a un database MongoDB vero, invece di tenerli solo in memoria.
